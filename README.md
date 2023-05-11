@@ -1,2 +1,2 @@
 # SEO Audit Tool
- SEO Audit Tool For Websites
+ A Quick SEO Audit Tool For Websites
